@@ -1,0 +1,16 @@
+/*Static footer section*/
+footer {
+  margin-left: -120px;
+  margin-top: 50px;
+  text-align: right;
+  color: #fff;
+  clear: both;
+  padding-top: 25px;
+  padding-right: 50px;
+  position: relative;
+  height: 100px;
+  background: radial-gradient(circle at 94.02% 88.03%, #3d2d48, transparent 100%), 
+  radial-gradient(circle at 25.99% 27.79%, #ffffff, transparent 100%), 
+  radial-gradient(circle at 50% 50%, #000000, #000000 100%);
+}
+/*End of static footer section */
